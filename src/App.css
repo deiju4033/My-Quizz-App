@@ -1,0 +1,18 @@
+*{
+
+    margin: 0px;
+    padding: 0px;
+    background: rgb(128,96,229);
+    
+   font-family: 'Courier New', Courier, monospace;
+   }
+
+
+   li{
+  
+     background-color: gray;
+     padding: 16px;
+     border: 3px solid white;
+     border-radius: 20px;
+     margin-top: 8px;
+   }
